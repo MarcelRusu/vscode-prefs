@@ -1,0 +1,59 @@
+{
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "window.zoomLevel": 2,
+    "editor.fontSize": 13,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "[haskell]": {
+        "editor.tabSize": 2
+    },
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4
+    },
+    "[elixir]" : {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
+    "[python]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4
+    },
+    "workbench.panel.location": "bottom",
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "extensions.ignoreRecommendations": true,
+    "cSpell.language": "en",
+    "window.menuBarVisibility": "toggle",
+    "workbench.sideBar.location": "left",
+    "workbench.statusBar.visible": true,
+    "gitlens.keymap": "alternate",
+    "zenMode.centerLayout": false,
+    "gitlens.historyExplorer.enabled": true,
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#ffffff",
+        "panel.background": "#ffffff",
+        "editor.background": "#ffffff",
+        "sideBar.background": "#ffffff",
+        "input.background": "#e9e9e9",
+        "terminal.ansiGreen": "#e9e9e9",
+        "terminal.ansiBrightWhite": "#636363",
+        "terminal.ansiWhite": "#adbb50",
+        "editor.lineHighlightBackground": "#a1a1a162",
+        "editor.selectionBackground": "#a1a1a162"
+    }
+}
